@@ -4,14 +4,19 @@
 
 This project is a C++ implementation of a chess game. It includes all standard chess pieces and follows the rules of chess. The game features functionalities such as check, checkmate, castling, and pawn promotion. The graphical interface is managed using the SFML library.
 
+![Chess Game](SFML%20Chess/images/chess_game_screenshot.PNG)
+
 ## Features
 
 - Full implementation of chess rules
 - Graphical interface using SFML
 - Player vs. Player mode
-- Check and Checkmate detection
+- Time-Based Mode
+- Check, Checkmate, and Stalemate detection
 - Castling and Pawn Promotion
 - Save and Load game states
+- Undo and Redo
+- Background and game sound
 
 ## Installation
 
@@ -46,6 +51,10 @@ cd ChessGame
 ## Usage
 
 Once the game starts, you can play chess in a player vs. player mode. Use the graphical interface to select and move pieces according to standard chess rules.
+
+
+![play mode](SFML%20Chess/images/chess_game_screenshot_2.PNG)
+
 
 ### Controls
 
