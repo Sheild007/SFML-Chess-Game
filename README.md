@@ -79,7 +79,7 @@ Once the game starts, you can play chess in a player vs. player mode. Use the gr
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Sheild007/SFML-Chess-Game?tab=MIT-1-ov-file) file for details.
 
 ## Acknowledgements
 
